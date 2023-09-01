@@ -31,4 +31,4 @@ Here are some ideas to get you started:
  
   - ## 📊 Mes stats GitHub
 
-![Mes stats](https://github-readme-stats.vercel.app/api?username=Luciesch8r&show_icons=true)
+![Mes stats](https://github-readme-stats.vercel.app/api?username=Luciesch8&show_icons=true)
