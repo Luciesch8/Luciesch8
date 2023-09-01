@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a developer passionate about a variety of languages and frameworks. I'm always eager to learn and experiment with new technologies. Below is an overview of my skills:
+I'm a developer with a penchant for creating. While I've explored many avenues in tech, iOS application development stands out for me. Crafting intuitive interfaces and maximizing user experiences on the iOS platform brings me unparalleled joy.
+
+Here's a glance at some of the tools and technologies I've honed:
 
 ## 🛠️ Skills & Tools
 
