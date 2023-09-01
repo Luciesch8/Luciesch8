@@ -15,27 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-# 👋 Hello, I'm Lucie!
-
 I'm a developer passionate about a variety of languages and frameworks. I'm always eager to learn and experiment with new technologies. Below is an overview of my skills:
 
 ## 🛠️ Skills & Tools
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" alt="Swift" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" alt="PHP" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" alt="Symfony" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" width="40" height="40"/>
-<!-- Logo for 4D if you find an appropriate icon -->
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" alt="Swift" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" alt="PHP" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" alt="Symfony" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" alt="C++" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" width="25" height="25"/>
 
 ## 📫 How to Reach Me
 
