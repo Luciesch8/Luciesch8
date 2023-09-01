@@ -19,19 +19,19 @@ I'm a developer passionate about a variety of languages and frameworks. I'm alwa
 
 ## 🛠️ Skills & Tools
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" alt="HTML5" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" alt="CSS3" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" alt="JavaScript" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/angular.svg" alt="Angular" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bootstrap.svg" alt="Bootstrap" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" alt="Swift" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" alt="Flutter" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/php.svg" alt="PHP" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/symfony.svg" alt="Symfony" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" alt="Python" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" alt="C++" width="25" height="25"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" alt="Java" width="25" height="25"/>
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 ## 📫 How to Reach Me
 
@@ -41,7 +41,3 @@ I'm a developer passionate about a variety of languages and frameworks. I'm alwa
 ## 📊 My GitHub Stats
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Luciesch8&show_icons=true)
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Luciesch8.Luciesch8)
-
-
