@@ -14,4 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" width="30">
+
+
+## 🛠️ Mes compétences
+
+- Langages: 
+  - Python
+  - JavaScript
+  - C++
+- Frameworks:
+  - React
+  - Django
+- Base de données:
+  - MySQL
+  - MongoDB
+ 
+  - ## 📊 Mes stats GitHub
+
+![Mes stats](https://github-readme-stats.vercel.app/api?username=Luciesch8r&show_icons=true)
