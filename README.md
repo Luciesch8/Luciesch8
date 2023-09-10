@@ -38,7 +38,7 @@ Here's a glance at some of the tools and technologies I've honed:
 ## 📫 How to Reach Me
 
 - Email: lucie.schoeni@icloud.com
-- LinkedIn: https://www.linkedin.com/in/lucie-schoeni-447220252/
+- LinkedIn: https://www.linkedin.com/in/lucie-schoeni
 
 ## 📊 My GitHub Stats
 
